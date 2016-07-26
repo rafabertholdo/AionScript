@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <AbilityCollection>
+    <!-- OK -->
+    <PointerMap>F1D578</PointerMap>
+    <PointerNode>B38</PointerNode>
+    <LeveledSkillProcessing>1</LeveledSkillProcessing>
+  </AbilityCollection>
+  <AbilitySingle>
+    <!-- OK -->
+    <Id>8</Id>
+    <Buffer>1C</Buffer>
+    <BufferSize>30</BufferSize>
+    <CooldownTime>3C</CooldownTime>
+    <CooldownTimeRemaining>40</CooldownTimeRemaining>
+    <Level>58</Level>
+  </AbilitySingle>
+  <ActorCollection>
+    <!-- OK -->
+    <PointerMap>F29974</PointerMap>
+    <PointerNode>48</PointerNode>
+    <PointerActorSinglePosition>140</PointerActorSinglePosition>
+    <PointerActorSingle>264</PointerActorSingle>
+  </ActorCollection>
+  <ActorPosition>
+    <!-- OK -->
+    <Position>64</Position>
+  </ActorPosition>
+  <ActorSingle>
+    <!-- OK -->
+    <Type>18</Type>
+    <Attitude>1C</Attitude>
+    <Id>28</Id>
+    <TypeId>2C</TypeId>
+    <Level>3A</Level>
+    <Health>3C</Health>
+    <Name>3E</Name>
+    <OwnerName>C4</OwnerName>
+    <OwnerId>F8</OwnerId>
+    <Legion>108</Legion>
+    <Duelling>190</Duelling>
+    <TypeNpc>1D8</TypeNpc>
+    <Class>224</Class>
+    <Stance>2C0</Stance>
+    <TargetId>350</TargetId>
+    <Hide>368</Hide>
+    <HideSeeing>369</HideSeeing>
+    <Dp>394</Dp>
+    <AttackSpeed>4F2</AttackSpeed>
+    <Speed>7C8</Speed>
+    <Rotation>8BC</Rotation>
+    <StanceAerial>9B4</StanceAerial>
+    <SkillId>BC4</SkillId>
+    <SkillTimeTotal>BCC</SkillTimeTotal>
+    <SkillTimeRemaining>BD0</SkillTimeRemaining>
+    <StateCollectionMap>1078</StateCollectionMap>
+    <StateCollectionSize>107C</StateCollectionSize>
+    <RankId>117C</RankId>
+    <HealthCurrent>13E8</HealthCurrent>
+    <HealthMaximum>13EC</HealthMaximum>
+    <Action>16A8</Action>
+    <CameraPosition>1E04</CameraPosition>
+  </ActorSingle>
+  <ActorState>
+    <!-- OK -->
+    <Id>C</Id>
+    <TimeRemaining>1C</TimeRemaining>
+  </ActorState>
+  <ControllerSingle>
+    <!-- OK -->
+    <CameraPitch>F1EE8C</CameraPitch>
+    <CameraYaw>F1EE94</CameraYaw>
+    <Id>F1F26C</Id>
+    <WorldId>F1FC18</WorldId>
+    <Brand>F1FC5C</Brand>
+    <Level>F1F990</Level>
+    <ExperienceMaximum>F29268</ExperienceMaximum>
+    <ExperienceRecoverable>F29270</ExperienceRecoverable>
+    <ExperienceCurrent>F29278</ExperienceCurrent>
+    <HealthMaximum>F29284</HealthMaximum>
+    <HealthCurrent>F29288</HealthCurrent>
+    <ManaMaximum>F2928C</ManaMaximum>
+    <ManaCurrent>F29290</ManaCurrent>
+    <FlightTimeMaximum>F29298</FlightTimeMaximum>
+    <FlightTimeCurrent>F2929C</FlightTimeCurrent>
+    <AttackRange>F1F9E8</AttackRange>
+    <FlightCooldownRemainingTime>F293BC</FlightCooldownRemainingTime>
+    <NameSearch>F5B184</NameSearch>
+    <Name>F1F6A4</Name>
+    <TargetOffset>5AC</TargetOffset>
+  </ControllerSingle>
+  <ControllerSingleCheat>
+    <!-- OK -->
+    <AttackRange>F1F9E8</AttackRange>
+    <AttackSpeed>F293B0</AttackSpeed>
+    <Speed>F293B4</Speed>
+    <GravityFlying>12F71B</GravityFlying>
+    <GravitySkills>0</GravitySkills>
+  </ControllerSingleCheat>
+  <ControllerSingleInput>
+    <!-- OK -->
+    <ClickDisabler>32DC45</ClickDisabler>
+    <ClickX1>F5DB20</ClickX1>
+    <ClickX2>F5DB28</ClickX2>
+    <ClickY1>F5DB24</ClickY1>
+    <ClickY2>F5DB2C</ClickY2>
+    <ConsoleMap>4AC</ConsoleMap>
+    <ConsoleMapPointer>828</ConsoleMapPointer>
+    <ConsoleMapLength>83C</ConsoleMapLength>
+    <SelectMaximumRange>A6F754</SelectMaximumRange>
+  </ControllerSingleInput>
+  <DialogCollection>
+    <!-- OK -->
+    <Array>F64AF8</Array>
+    <Size>1000</Size>
+    <Validate>F4</Validate>
+  </DialogCollection>
+  <DialogSingle>
+    <!-- OK (SkillId not tested) -->
+    <Buffer>C</Buffer>
+    <BufferSize>20</BufferSize>
+    <State>28</State>
+    <Position>48</Position>
+    <Size>58</Size>
+    <Padding>68</Padding>
+    <ChildMap>280</ChildMap>
+    <ChildSize>284</ChildSize>
+    <SkillId>3C8</SkillId>
+    <HtmlId>998</HtmlId>
+  </DialogSingle>
+  <GroupCollection>
+    <AllianceLeaderId>F1FCF8</AllianceLeaderId>
+    <AllianceMap>F1FD50</AllianceMap>
+    <AllianceSize>F1FD54</AllianceSize>
+    <PartyLeaderId>F1FCB4</PartyLeaderId>
+    <PartyMap>F1FCE4</PartyMap>
+    <PartySize>F1FCE8</PartySize>
+  </GroupCollection>
+  <GroupSingle>
+    <TeamId>0</TeamId>
+    <Id>4</Id>
+    <HealthMaximum>8</HealthMaximum>
+    <HealthCurrent>C</HealthCurrent>
+    <ManaMaximum>10</ManaMaximum>
+    <ManaCurrent>14</ManaCurrent>
+    <FlightTimeMaximum>1C</FlightTimeMaximum>
+    <FlightTimeCurrent>20</FlightTimeCurrent>
+    <WorldId>28</WorldId>
+    <Position>30</Position>
+    <Class>3C</Class>
+    <Level>3E</Level>
+    <IsMentor>42</IsMentor>
+    <Name>43</Name>
+  </GroupSingle>
+  <InventoryCollection>
+    <!-- OK -->
+    <PointerMap>F1D578</PointerMap>
+    <PointerNode>A2C</PointerNode>
+    <MaximumSize>F292EC</MaximumSize>
+  </InventoryCollection>
+  <InventorySingle>
+    <!-- OK -->
+    <Id>C</Id>
+    <Amount>10</Amount>
+    <Buffer>1C</Buffer>
+    <BufferSize>30</BufferSize>
+    <CooldownTime>3C</CooldownTime>
+    <CooldownTimeRemaining>40</CooldownTimeRemaining>
+    <Type>58</Type>
+    <Slot>78</Slot>
+  </InventorySingle>
+</Data>

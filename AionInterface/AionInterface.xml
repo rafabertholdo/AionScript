@@ -1,0 +1,108 @@
+﻿<DefinitionList>
+  <Definition Hash="76656864">AionInterface.Resources.4916.0925.0623.10767_32.xml</Definition> <!-- EU 4.9 15.07.2016 -->
+  <Definition Hash="80A69121">AionInterface.Resources.5016.1209.0512.10590_32.xml</Definition> <!-- NA 5.0.1 15.07.2016 -->
+  <Definition Hash="0D65CB5B">AionInterface.Resources.5016.0224.0707.10814_32.xml</Definition> <!-- RU 5.0.5 13.07.2016 -->
+  <Definition Hash="FB205D20">AionInterface.Resources.5016.0224.0609.10716_32.xml</Definition> <!-- RU 5.0.5 15.06.2016 -->
+  <Definition Hash="C1B8144C">AionInterface.Resources.5016.0224.0602.10683_32.xml</Definition> <!-- RU 5.0.5 07.06.2016 -->
+  <Definition Hash="53E34752">AionInterface.Resources.5016.0224.0526.10645_32.xml</Definition> <!-- RU 5.0.5 31.05.2016 -->
+  <Definition Hash="AD5131F6">AionInterface.Resources.5016.0224.0520.10632_32.xml</Definition> <!-- RU 5.0.5 24.05.2016 -->
+  <Definition Hash="B83C048E">AionInterface.Resources.5016.0224.0429.10544_32.xml</Definition> <!-- RU 5.0 PTS 11.05.2016 (22.02.2016​ kor) -->
+  <Definition Hash="1B9AFCDF">AionInterface.Resources.5016.1209.0418.10489_32.xml</Definition> <!-- RU 5.0 11.05.2016 -->
+  <Definition Hash="7C146A7E">AionInterface.Resources.4916.0925.0303.10280_32.xml</Definition> <!-- EU 4.9.1 release -->
+  <Definition Hash="59F0E210">AionInterface.Resources.5016.0224.0406.10457_32.xml</Definition> <!-- RU 5.0 second week PTS maintenance -->
+  <Definition Hash="53ABAC6C">AionInterface.Resources.5016.1209.0405.10447_32.xml</Definition> <!-- RU 5.0 first week maintenance -->
+  <Definition Hash="FA34EB29">AionInterface.Resources.5016.1209.0325.10398_32.xml</Definition> <!-- RU Retail 5.0 -->
+  <Definition Hash="9E3DDFEA">AionInterface.Resources.5016.1209.0226.10250_32.xml</Definition> <!-- RU PTS 5.0 -->
+  <Definition Hash="DA47DE61">AionInterface.Resources.4916.0925.0218.10216_32.xml</Definition> <!-- NA -->
+  <Definition Hash="499704FA">AionInterface.Resources.4915.0925.1207.9925_32.xml</Definition> <!-- RU 4.9.2 -->  
+  <Definition Hash="7F89672B">AionInterface.Resources.4916.0715.0226.10247_32.xml</Definition> <!-- EU -->
+  <Definition Hash="B47FBDB0">AionInterface.Resources.4915.0715.1116.9843_32.xml</Definition> <!-- NA -->
+  <Definition Hash="3D86176B">AionInterface.Resources.4815.0107.1214.9951_32.xml</Definition> <!-- EU -->
+  <Definition Hash="1240AA10">AionInterface.Resources.4915.0715.1102.9771_32.xml</Definition> <!-- NA -->
+  <Definition Hash="27F0600D">AionInterface.Resources.4815.0107.1124.9886_32.xml</Definition> <!-- EU -->
+  <Definition Hash="DF38EB6B">AionInterface.Resources.4815.0107.1013.9672_32.xml</Definition> <!-- NA --> 
+  <Definition Hash="9D37296E">AionInterface.Resources.4815.0107.0707.9358_32.xml</Definition> <!-- NA -->
+  <Definition Hash="90C143D3">AionInterface.Resources.4815.0107.0612.9273_32.xml</Definition> <!-- NA -->
+  <Definition Hash="049386F0">AionInterface.Resources.47115.0924.0612.9268_32.xml</Definition> <!-- EU -->
+  <Definition Hash="373CBFDF">AionInterface.Resources.4815.0107.0420.9132_32.xml</Definition> <!-- NA -->
+  <Definition Hash="280CD9FC">AionInterface.Resources.47115.0625.0521.9214_32.xml</Definition> <!-- EU -->
+  <Definition Hash="5A44BBC5">AionInterface.Resources.47515.0924.0310.9022_32.xml</Definition> <!-- NA -->
+  <Definition Hash="C06E6F03">AionInterface.Resources.47515.0924.0306.9009_32.xml</Definition> <!-- NA -->
+  <Definition Hash="B3EFF116">AionInterface.Resources.47515.0924.0226.8974_32.xml</Definition> <!-- NA -->
+  <Definition Hash="1CBDFA27">AionInterface.Resources.47514.0924.1125.8752_32.xml</Definition> <!-- NA -->
+  <Definition Hash="87D385DE">AionInterface.Resources.4515.0319.0112.8881_32.xml</Definition> <!-- EU -->
+  <Definition Hash="8A4E5ECF">AionInterface.Resources.47114.0625.1118.8716_32.xml</Definition> <!-- NA -->
+  <Definition Hash="5213C5B8">AionInterface.Resources.47114.0625.1028.8643_32.xml</Definition> <!-- NA -->
+  <Definition Hash="05B0F0F1">AionInterface.Resources.4514.0319.0722.8332_32.xml</Definition> <!-- EU -->
+  <Definition Hash="6B51143D">AionInterface.Resources.4514.0319.0716.8300_32.xml</Definition> <!-- NA -->
+  <Definition Hash="9EAAE188">AionInterface.Resources.4514.0319.0616.8233_32.xml</Definition> <!-- NA -->
+  <Definition Hash="BE62B7E8">AionInterface.Resources.4514.0319.0509.8156_32.xml</Definition> <!-- NA -->
+  <Definition Hash="2DD03962">AionInterface.Resources.4514.1127.0512.8163_32.xml</Definition> <!-- NA -->
+  <Definition Hash="F3C578E2">AionInterface.Resources.4514.1127.0416.8099_32.xml</Definition> <!-- NA -->
+  <Definition Hash="3AA8F8AE">AionInterface.Resources.4514.1002.0430.8139_32.xml</Definition> <!-- EU -->
+  <Definition Hash="252B5D7C">AionInterface.Resources.4514.1127.0331.8043_32.xml</Definition> <!-- NA -->
+  <Definition Hash="30DA4AEC">AionInterface.Resources.4514.1002.0416.8096_32.xml</Definition> <!-- EU -->
+  <Definition Hash="EC7B500E">AionInterface.Resources.4514.1127.0305.7956_32.xml</Definition> <!-- NA -->
+  <Definition Hash="011929BA">AionInterface.Resources.4314.0403.0317.7998_32.xml</Definition> <!-- EU -->
+  <Definition Hash="0781CBE8">AionInterface.Resources.4514.1002.0304.7947_32.xml</Definition>
+  <Definition Hash="64DDF58A">AionInterface.Resources.4514.1002.0226.7917_32.xml</Definition>
+  <Definition Hash="C7850F4F">AionInterface.Resources.4514.1002.0204.7838_32.xml</Definition>
+  <Definition Hash="E19E69B8">AionInterface.Resources.4514.1002.0122.7790_32.xml</Definition>
+  <Definition Hash="45147B73">AionInterface.Resources.4213.0206.0911.7443_32.xml</Definition>
+  <Definition Hash="E247FB44">AionInterface.Resources.4213.0206.0903.7412_32.xml</Definition>
+  <Definition Hash="B1BB44B6">AionInterface.Resources.4313.0403.1112.7589_32.xml</Definition>
+  <Definition Hash="1D6FA0E2">AionInterface.Resources.4313.0403.0807.7338_32.xml</Definition>
+  <Definition Hash="EED5B680">AionInterface.Resources.4313.0403.0704.7222_32.xml</Definition>
+  <Definition Hash="B2D7ED5A">AionInterface.Resources.4313.0403.0530.7127_32.xml</Definition>
+  <Definition Hash="1E211426">AionInterface.Resources.4313.0206.0819.7367_32.xml</Definition>
+  <Definition Hash="0D5A9F70">AionInterface.Resources.4213.0206.0614.7175_32.xml</Definition>
+  <Definition Hash="916DD26B">AionInterface.Resources.4213.0206.0531.7133_32.xml</Definition>
+  <Definition Hash="ACF2E3A4">AionInterface.Resources.3513.1121.0719.7283_32.xml</Definition>
+  <Definition Hash="3AABB80E">AionInterface.Resources.3513.1121.0122.6653_32.xml</Definition>
+  <Definition Hash="CB634056">AionInterface.Resources.3513.0801.0121.6649_32.xml</Definition>
+  <Definition Hash="0968D149">AionInterface.Resources.3512.1004.1106.6383_32.xml</Definition>
+  <Definition Hash="2917D8D9">AionInterface.Resources.3512.0801.1212.6534_32.xml</Definition>
+  <Definition Hash="57BFDD38">AionInterface.Resources.3512.0801.1102.6367_32.xml</Definition>
+  <Definition Hash="8E548A6C">AionInterface.Resources.3512.0801.1022.6302_32.xml</Definition>
+  <Definition Hash="1E88FEC5">AionInterface.Resources.3512.0801.0925.6183_32.xml</Definition> <!-- NA "3.5" --><!-- Russia/TF -->
+  <Definition Hash="AB94146B">AionInterface.Resources.3012.0509.1018.6287_32.xml</Definition>
+  <Definition Hash="D34E4D71">AionInterface.Resources.3012.0208.1010.6249_32.xml</Definition>
+  <Definition Hash="978A419A">AionInterface.Resources.3012.0509.0604.5722_32.xml</Definition> <!-- NA "3.1" -->
+  <Definition Hash="A1C33BBE">AionInterface.Resources.3012.0509.0629.5803_32.xml</Definition> <!-- Russian -->
+  <Definition Hash="1E8E3F3B">AionInterface.Resources.3012.0208.0809.5986_32.xml</Definition> <!-- NA "3.1" -->
+  <Definition Hash="0AB6FEB5">AionInterface.Resources.3012.0208.0531.5710_32.xml</Definition>
+  <Definition Hash="B3E1187D">AionInterface.Resources.3012.0208.0426.5607_32.xml</Definition> <!-- Russian -->
+  <Definition Hash="B29090DD">AionInterface.Resources.3012.0208.0424.5592_32.xml</Definition>
+  <Definition Hash="C927913A">AionInterface.Resources.3012.0208.0328.5472_32.xml</Definition> <!-- Russian -->
+  <Definition Hash="972FE829">AionInterface.Resources.3012.1221.0308.5412_32.xml</Definition> <!-- Russian -->
+  <!-- F2P -->
+  <Definition Hash="88F4FAD5" Name="2712.0907.0412.5519 (32-Bit)">AionInterface.Resources.2712.0907.0412.5519_32.xml</Definition>
+  <Definition Hash="C13369B7" Name="2712.0907.0330.5486 (32-Bit)">AionInterface.Resources.2712.0907.0330.5486_32.xml</Definition>
+  <Definition Hash="37BC0F1D" Name="2712.0907.0222.5354 (32-Bit)">AionInterface.Resources.2712.0907.0222.5354_32.xml</Definition>
+  <Definition Hash="4840D50C" Name="2.7.1.02 (32-Bit)">AionInterface.Resources.2.7.1.02_9_32.xml</Definition>
+  <Definition Hash="60A74C94" Name="2.7.1.02 (32-Bit)">AionInterface.Resources.2.7.1.02_32.xml</Definition>
+  <Definition Hash="AC1EE2E4" Name="2.7.0.02 (32-Bit)">AionInterface.Resources.2.7.0.02_32.xml</Definition>
+  <Definition Hash="DA616CEF" Name="2.7.0.01 (32-Bit)">AionInterface.Resources.2.7.0.01_32.xml</Definition>
+  <Definition Hash="68E41B85" Name="2.7.0.01 (32-Bit)">AionInterface.Resources.2.7.0.00_32.xml</Definition>
+  <!-- Russian (2.7.0.1) -->
+  <Definition Hash="5E008607" Name="2.7.0.00 (32-Bit)">AionInterface.Resources.2.7.0.00_32.xml</Definition>
+  <!-- Russian (Seems to be 2.7.0.0) -->
+  <Definition Hash="5A31181F" Name="2.7.0.00 (32-Bit)">AionInterface.Resources.2.7.0.00_32.xml</Definition>
+  <Definition Hash="D8350603" Name="2.6.0.03 (32-Bit)">AionInterface.Resources.2.6.0.03_32.xml</Definition>
+  <Definition Hash="2C067C19" Name="2.6.0.02 (32-Bit)">AionInterface.Resources.2.6.0.02_32.xml</Definition>
+  <Definition Hash="552BC074" Name="2.6.0.01 (32-Bit)">AionInterface.Resources.2.6.0.01_32.xml</Definition>
+  <Definition Hash="939FB76D" Name="2.6.0.00 (32-Bit)">AionInterface.Resources.2.6.0.00_32.xml</Definition>
+  <Definition Hash="9FE7AEFE" Name="2.5.0.05 (32-Bit)">AionInterface.Resources.2.5.0.05_32.xml</Definition>
+  <Definition Hash="A140B295" Name="2.5.0.04 (32-Bit)">AionInterface.Resources.2.5.0.04_32.xml</Definition>
+  <Definition Hash="CE554E43" Name="2.5.0.01 (32-Bit)">AionInterface.Resources.2.5.0.01_32.xml</Definition>
+  <!-- Russian (Between 2.5.0.1 and 2.5.0.4) -->
+  <Definition Hash="E89F8841" Name="2.5.0.01 (32-Bit)">AionInterface.Resources.2.5.0.01_32.xml</Definition>
+  <Definition Hash="F542C79A" Name="2.1.0.12 (32-Bit)">AionInterface.Resources.2.1.0.12.xml</Definition>
+  <Definition Hash="0A54EC17" Name="2.1.0.10 (32-Bit)">AionInterface.Resources.2.1.0.10.xml</Definition>
+  <Definition Hash="036C2E5D" Name="2.1.0.09 (32-Bit)">AionInterface.Resources.2.1.0.09.xml</Definition>
+  <Definition Hash="50597E8A" Name="2.1.0.06 (32-Bit)">AionInterface.Resources.2.1.0.06.xml</Definition>
+  <Definition Hash="D33EB751" Name="2.1.0.05 (32-Bit)">AionInterface.Resources.2.1.0.05.xml</Definition>
+  <Definition Hash="3D3BC25D" Name="2.1.0.03 (32-Bit)">AionInterface.Resources.2.1.0.01.xml</Definition>
+  <Definition Hash="B664C8C8" Name="2.1.0.02 (32-Bit)">AionInterface.Resources.2.1.0.01.xml</Definition>
+  <Definition Hash="A5660424" Name="2.1.0.01 (32-Bit)">AionInterface.Resources.2.1.0.01.xml</Definition>
+</DefinitionList>

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\rafaelgb\Downloads\aioninterface.dll-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0A1B090A-A9E5-441D-938D-4BCF821E397B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>AionInterface</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <ApplicationVersion>0.0.0.0</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>AionInterface</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Reflex.Memory">
+      <HintPath>lib\Reflex.Memory.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ResoX.cs" />
+    <Compile Include="BaseAionScript.cs" />
+    <Compile Include="Ability.cs" />
+    <Compile Include="AbilityList.cs" />
+    <Compile Include="Dialog.cs" />
+    <Compile Include="DialogList.cs" />
+    <Compile Include="eAttitude.cs" />
+    <Compile Include="eClass.cs" />
+    <Compile Include="eStance.cs" />
+    <Compile Include="eTypeA.cs" />
+    <Compile Include="eTypeC.cs" />
+    <Compile Include="Entity.cs" />
+    <Compile Include="EntityList.cs" />
+    <Compile Include="eInventorySlotType.cs" />
+    <Compile Include="eInventoryType.cs" />
+    <Compile Include="Inventory.cs" />
+    <Compile Include="InventoryList.cs" />
+    <Compile Include="KeysModifier.cs" />
+    <Compile Include="PlayerKey.cs" />
+    <Compile Include="State.cs" />
+    <Compile Include="Travel.cs" />
+    <Compile Include="TravelList.cs" />
+    <Compile Include="Force.cs" />
+    <Compile Include="ForceList.cs" />
+    <Compile Include="eAction.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="PlayerInput.cs" />
+    <Compile Include="StateList.cs" />
+    <Compile Include="eDispell.cs" />
+    <Compile Include="eSkillType.cs" />
+    <Compile Include="eSkillTypeSecondary.cs" />
+    <Compile Include="Skill.cs" />
+    <Compile Include="SkillList.cs" />
+    <Compile Include="Vector2D.cs" />
+    <Compile Include="AbilityLazy.cs" />
+    <Compile Include="LazySynch.cs" />
+    <Compile Include="AionEventIncludeHandler.cs" />
+    <Compile Include="AionEventRegisterHandler.cs" />
+    <Compile Include="AionEventUnregisterHandler.cs" />
+    <Compile Include="AionEventTravelHandler.cs" />
+    <Compile Include="AionEventStringHandler.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="Setting.cs" />
+    <Compile Include="Vector3D.cs" />
+    <Compile Include="IAionInterface.cs" />
+    <Compile Include="AionEventHandler.cs" />
+    <Compile Include="AionEventBaseHandler.cs" />
+    <Compile Include="AionEventKeyHandler.cs" />
+    <Compile Include="AionEventOpenHandler.cs" />
+    <Compile Include="Game.cs" />
+    <Compile Include="Reflex\Memory\Resolving\CRC32.cs" />
+    <Compile Include="Reflex\Memory\Resolving\Resolver.cs" />
+    <Compile Include="Reflex\Memory\Resolving\ResolverElement.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Activated" />
+    <Resource Include="Deactivated" />
+    <Resource Include="Impossible" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AionInterface.xml" />
+    <EmbeddedResource Include="ResoX.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\5016.0224.0707.10814_32.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\5016.0224.0406.10457_32.xml" />
+    <EmbeddedResource Include="Resources\5016.0224.0429.10544_32.xml" />
+    <EmbeddedResource Include="Resources\5016.0224.0520.10632_32.xml" />
+    <EmbeddedResource Include="Resources\5016.0224.0526.10645_32.xml" />
+    <EmbeddedResource Include="Resources\5016.0224.0602.10683_32.xml" />
+    <EmbeddedResource Include="Resources\5016.0224.0609.10716_32.xml" />
+    <EmbeddedResource Include="Resources\5016.1209.0226.10250_32.xml" />
+    <EmbeddedResource Include="Resources\5016.1209.0325.10398_32.xml" />
+    <EmbeddedResource Include="Resources\5016.1209.0405.10447_32.xml" />
+    <EmbeddedResource Include="Resources\5016.1209.0418.10489_32.xml" />
+    <EmbeddedResource Include="Resources\5016.1209.0512.10590_32.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\4916.0925.0623.10767_32.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\rafaelgb\Downloads\aionscript\AionScript.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CDB0CBEF-6966-478B-9AF5-5460013A1175}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>AionScript</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <ApplicationVersion>0.0.0.0</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>AionScript</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="ScintillaNet">
+      <HintPath>lib\ScintillaNet.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="LuaInterface.x64">
+      <HintPath>lib\LuaInterface.x64.dll</HintPath>
+    </Reference>
+    <Reference Include="LuaInterface.x86">
+      <HintPath>lib\LuaInterface.x86.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Reflex.Memory">
+      <HintPath>lib\Reflex.Memory.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Compiler.cs" />
+    <Compile Include="CompileResult.cs" />
+    <Compile Include="eScripting.cs" />
+    <Compile Include="Event.cs" />
+    <Compile Include="Extension.cs" />
+    <Compile Include="IDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IDialogNode.cs" />
+    <Compile Include="IException.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IOverlay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IScripting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ITravel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LuaDotNet_X64.cs" />
+    <Compile Include="LuaDotNet_X86.cs" />
+    <Compile Include="MyDataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="ProgramCryptor.cs" />
+    <Compile Include="ProjectCompile.cs" />
+    <Compile Include="Scripting.cs" />
+    <Compile Include="Modelling\Scripting\VirtualMachine.cs" />
+    <Compile Include="Modelling\Scripting\VirtualMachineEngine.cs" />
+    <Compile Include="Modelling\Scripting\VirtualMachineEngineEvent.cs" />
+    <Compile Include="Modelling\Scripting\Lua2\LuaMachine.cs" />
+    <Compile Include="Modelling\Scripting\Lua2\LuaMachine32.cs" />
+    <Compile Include="Modelling\Scripting\Lua2\LuaMachine64.cs" />
+    <Compile Include="Modelling\Binding\BindingKeyBoard.cs" />
+    <Compile Include="Properties\Resources.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="IDialog.resx" />
+    <EmbeddedResource Include="IManager.resx" />
+    <EmbeddedResource Include="IProcess.resx" />
+    <EmbeddedResource Include="ITravel.resx" />
+    <EmbeddedResource Include="Properties\Resources.resx" />
+    <EmbeddedResource Include="Resources\Library\AsCircularMagic.lua" />
+    <EmbeddedResource Include="Resources\Library\AsTest.lua" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AionInterface\AionInterface.csproj">
+      <Project>{0a1b090a-a9e5-441d-938d-4bcf821e397b}</Project>
+      <Name>AionInterface</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
